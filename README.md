@@ -5,7 +5,7 @@ A template for writing native Aument libraries in C.
 ## How to use
 
   1. You should already have Meson, a C compiler and Aument installed.
-  2. Download an archive of this repository.
+  2. [Download an archive of this repository.](https://github.com/aument-lang/library-template/archive/refs/heads/main.zip)
   3. Fill in information about your library in `meson.build`:
 ```
 project(
